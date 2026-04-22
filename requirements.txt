@@ -1,0 +1,2 @@
+# No external dependencies required for simulation mode.
+# For hardware-accelerated PQC, install: liboqs-python
