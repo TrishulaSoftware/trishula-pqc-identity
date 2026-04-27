@@ -1,2 +1,5 @@
-# No external dependencies required for simulation mode.
+# Core (pqc_identity.py): No external dependencies — stdlib only.
 # For hardware-accelerated PQC, install: liboqs-python
+
+# API (pqc_api.py): Flask required for REST endpoints.
+flask>=3.0.0
