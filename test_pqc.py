@@ -1,9 +1,10 @@
-"""
+﻿"""
 Trishula PQC Identity — Test Suite
 SQA v5 [ASCENDED] Compliance: MC/DC Determinism + Bit-Perfect Persistence
 """
 import json
 import sys
+sys.stdout.reconfigure(encoding='utf-8')
 import os
 import shutil
 import tempfile
